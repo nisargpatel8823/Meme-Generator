@@ -37,12 +37,12 @@ npm install npm@latest -g
 Clone the repository
 
 ```bash
-git clone https://github.com/nisargpatel8823/Text-to-speech.git
+git clone https://github.com/nisargpatel8823/Meme-Generator.git
 ```
 Navigate into the project
 
 ```bash
-cd Text-to-speech
+cd Meme-Generator
 ```
 Install dependencies
 ```bash
