@@ -1,8 +1,64 @@
-# React + Vite
+# 🖼️ Meme Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive Meme Generator built with **React**, **Vite**, and **Tailwind CSS**. This application allows users to create custom memes by selecting random images and adding personalized text.
 
-Currently, two official plugins are available:
+![image](https://github.com/user-attachments/assets/d30b0fa5-34e7-442b-ac54-a8f7dde4a589)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+🔗 **Live Demo:** [Meme Generator](https://storied-brioche-f5f4ea.netlify.app/)
+---
+
+## ✨ Features
+
+- 🎲 Generate random meme images
+- ⚡ Fast performance with Vite
+- 🎨 Responsive design using Tailwind CSS
+
+---
+
+## 🛠️ Built With
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Ensure you have **Node.js** and **npm** installed on your machine.
+
+```bash
+npm install npm@latest -g
+```
+🧩 Installation
+Clone the repository
+
+```bash
+git clone https://github.com/nisargpatel8823/Text-to-speech.git
+```
+Navigate into the project
+
+```bash
+cd Text-to-speech
+```
+Install dependencies
+```bash
+npm install
+```
+Start the development server
+
+```bash
+
+npm run dev
+```
+---
+
+📬 Contact
+---
+
+GitHub: [@nisargpatel8823](https://github.com/nisargpatel8823)
+
+LinkedIn: [nisargpatel8823](https://www.linkedin.com/in/nisargpatel8823/)
