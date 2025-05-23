@@ -8,7 +8,7 @@ A simple and interactive Meme Generator built with **React**, **Vite**, and **Ta
 🔗 **Live Demo:** [Meme Generator](https://storied-brioche-f5f4ea.netlify.app/)
 ---
 
-## ✨ Features
+### ✨ Features
 
 - 🎲 Generate random meme images
 - ⚡ Fast performance with Vite
@@ -16,7 +16,7 @@ A simple and interactive Meme Generator built with **React**, **Vite**, and **Ta
 
 ---
 
-## 🛠️ Built With
+### 🛠️ Built With
 
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
@@ -24,7 +24,7 @@ A simple and interactive Meme Generator built with **React**, **Vite**, and **Ta
 
 ---
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 
 ### Prerequisites
 
